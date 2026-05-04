@@ -1,7 +1,7 @@
 # WBDV111_Midterm Lab Exam - Jake & Garry's Barbershop
 
 # Members:
-Vincent E. Doricarion
+Vincent 
 
 Jeof Ervyne P. Betinol
 
